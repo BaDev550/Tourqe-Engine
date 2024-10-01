@@ -1,0 +1,6 @@
+[ Texture 1 ]
+[ Texture 2 ]
+### Lighting ###
+{ 0.100 } Camera Speed
+{ 100.000 } Camera Sens
+[ Close Application ]
